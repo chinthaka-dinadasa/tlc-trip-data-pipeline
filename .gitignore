@@ -1,0 +1,6 @@
+.venv/
+jars/
+spark-warehouse/
+.ipynb_checkpoints/
+derby.log
+metastore_db/
